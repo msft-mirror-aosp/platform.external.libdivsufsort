@@ -47,7 +47,6 @@ license {
 cc_defaults {
     name: "libdivsufsort_defaults",
     host_supported: true,
-    recovery_available: true,
     srcs: [
         "lib/divsufsort.c",
         "lib/sssort.c",
